@@ -1,0 +1,15 @@
+/*CSS página de fotos MVG*/
+ 
+/*Reset*/
+
+*{
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+body {
+    background-image: url(../img/IMG_0333.JPEG);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
